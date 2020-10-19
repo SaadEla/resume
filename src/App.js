@@ -33,7 +33,7 @@ class App extends Component {
             "zip": "20250"
           },
           "website": "http://www.timbakerdev.com",
-          "resumedownload": "MyResume.pdf",
+          "resumedownload": "/MyResume.pdf",
           "social": [
             {
               "name": "linkedin",
